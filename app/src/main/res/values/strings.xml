@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DirectTunnel</string>
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_config">تنظیمات</string>
+    <string name="nav_logs">گزارش‌ها</string>
+    <string name="status_connected">تانل مستقیم فعال است</string>
+    <string name="status_connecting">در حال برقراری تانل...</string>
+    <string name="status_disconnecting">در حال قطع اتصال...</string>
+    <string name="status_disconnected">آماده اتصال مستقیم</string>
+    <string name="status_error">خطا در اتصال</string>
+    <string name="hero_subtitle_connected">تمامی ترافیک TCP و DNS گوشی مستقیم از طریق Worker رمزگذاری می‌شود</string>
+    <string name="hero_subtitle_disconnected">برای هدایت مستقیم و بی‌واسطه کل ترافیک گوشی ضربه بزنید</string>
+    <string name="action_connect">اتصال</string>
+    <string name="action_disconnect">قطع اتصال</string>
+    <string name="throughput_title">ترافیک زنده تانل</string>
+    <string name="download_label">دریافت (RX)</string>
+    <string name="upload_label">ارسال (TX)</string>
+    <string name="active_sessions_label">اتصالات فعال</string>
+    <string name="dns_queries_label">درخواست DNS</string>
+    <string name="total_conns_label">کل نشست‌ها</string>
+    <string name="diagnostic_title">تست دست‌دهی پروتکل Worker</string>
+    <string name="diagnostic_desc">ارسال پکت Init + بررسی HMAC ACK به صورت مستقیم</string>
+    <string name="diagnostic_run">تست پینگ</string>
+    <string name="config_protocol_title">پارامترهای پروتکل WebSocket</string>
+    <string name="config_routing_title">مسیریابی و DNS</string>
+    <string name="config_split_tunnel_title">استثنا کردن برنامه‌ها (Split Tunnel)</string>
+    <string name="save_changes">ذخیره تنظیمات</string>
+    <string name="reset_defaults">بازنشانی پیش‌فرض</string>
+    <string name="tab_active_connections">اتصالات فعال</string>
+    <string name="tab_engine_logs">لاگ موتور تانل</string>
+    <string name="clear_logs">پاک کردن</string>
+    <string name="copy_logs">کپی</string>
+</resources>

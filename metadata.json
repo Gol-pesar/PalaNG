@@ -1,0 +1,6 @@
+{
+  "name": "DirectTunnel",
+  "description": "Full-device Android VpnService client tunneling all TCP and DNS traffic directly through an encrypted WebSocket Worker tunnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
